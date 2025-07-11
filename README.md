@@ -13,7 +13,7 @@ compared to a pretrained baseline YOLOv7.
 
 Faster convergence:
 
-Strategically placed ConvCBAM modules reduce the number of images and epochs needed to reach comparable performance by approximately 22%, demonstrated on:
+Strategically placed ConvCBAM modules reduce the number of images and epochs needed to reach comparable performance by approximately 22% and 35% respectively, demonstrated on:
 
 the Smoke-Fire Detection YOLO dataset on Kaggle
 
