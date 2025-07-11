@@ -1,0 +1,11 @@
+This MIT License applies specifically to the following original modules written by Eshan K Kaushal:
+
+- Channel_Attn
+- Spatial_Attn
+- CBAM
+- Conv_CBAM
+- Conv_CBAM_w_alpha
+- SimpleSlidingWindowAttention
+- CBAMSlidingWindowBlock
+
+Other parts of this repository are under their respective open source licenses (e.g. YOLOv7 GPL-3.0).
