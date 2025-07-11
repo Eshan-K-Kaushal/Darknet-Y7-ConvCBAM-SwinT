@@ -1,4 +1,4 @@
-# author = ESHAN K KAUSHAL
+# enhancer = ESHAN K KAUSHAL
 
 nc: 2 # 10 # 21  # number of classes
 depth_multiple: 1.0  # model depth multiple
