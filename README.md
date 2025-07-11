@@ -15,7 +15,7 @@ Faster convergence:
 
 Strategically placed ConvCBAM modules reduce the number of images and epochs needed to reach comparable performance by approximately 22% and 35% respectively, demonstrated on:
 
-the Smoke-Fire Detection YOLO dataset on Kaggle
+the Smoke-Fire Detection YOLO dataset on Kaggle (https://www.kaggle.com/datasets/sayedgamal99/smoke-fire-detection-yolo?resource=download)
 
 and an in-house dataset.
 
