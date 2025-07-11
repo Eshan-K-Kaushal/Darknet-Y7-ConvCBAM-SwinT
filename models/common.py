@@ -1,3 +1,11 @@
+# ---------------------------------------------------------------
+# Custom ConvCBAM and Sliding Window CBAM modules
+# Author: Eshan K Kaushal
+# Copyright (c) 2024 Eshan K Kaushal
+# Licensed under the MIT License (for these modules only)
+# See LICENSE file for details.
+# ---------------------------------------------------------------
+
 import math
 from copy import copy
 from pathlib import Path
